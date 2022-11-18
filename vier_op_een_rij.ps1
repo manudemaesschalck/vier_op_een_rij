@@ -7,7 +7,7 @@ Write-Host 'De bedoeling van het spel is dat je Als eerst 4 dezelfde tekens naas
 Write-Host 'Horizontaal, verticaal, schuin'
 Write-Host 'de spelers kiezen om de beurt een rij van 1 tot en met 7'
 Write-Host 'Het teken komt terect in het meest onderste beschikbare vakje '
-Write-Host 'to start the game press game'
+Write-Host 'een winst toevoegen druk 0 als er vier op 1 rij zijn'
 
 
 Write-Host '--------------------------------------------------------------------------------------'
